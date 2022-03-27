@@ -2,7 +2,7 @@
 - 👀 I’m interested in making application for my friend or someone.
 - 🌱 I’m currently learning professionally react.js
 - 💞️ I’m looking to collaborate on javascript and frontend job.
-- 📫 How to reach me sending email(jiyk@kakao.com, but i'm not kakao developer)
+- 📫 How to reach me sending email(jiyk@kakao.com)
 
 <!---
 jden66/jden66 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
